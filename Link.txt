@@ -1,0 +1,5 @@
+file:///C:/Users/Yash/Desktop/Web%20Development/Amazon%20clone/index.html
+
+
+cdjs: https://cdnjs.com/libraries/font-awesome
+icons website: font awesome
